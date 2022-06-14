@@ -33,7 +33,7 @@
 <h3 align="left">Take a look at my stats</h3>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=caiorobert" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=caiorobert" height="150" alt="languages graph"  />
 </div>
@@ -42,7 +42,7 @@
 <h3 align="left">Contact me</h3>
 
 ###
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/caio-robert-ribeiro-cruz-51726564/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
