@@ -39,9 +39,6 @@
 </div>
 
 ###
-<img href="https://github.com/caiorobert/caiorobert/blob/output/snake.svg" alt="Snake animation" />
-
-###
 <h3 align="left">Contact me</h3>
 
 ###
